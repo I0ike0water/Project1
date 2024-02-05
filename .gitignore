@@ -7,6 +7,15 @@
 *.o
 *.obj
 
+# Personal Ignore
+Intermediate/*
+Saved/*
+/Saved
+/Intermediate
+/.vs
+/Build
+*.sln
+
 # Precompiled Headers
 *.gch
 *.pch
